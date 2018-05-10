@@ -1,4 +1,4 @@
-package com.arge.lucene;
+package com.arge.reversegeocoding;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;

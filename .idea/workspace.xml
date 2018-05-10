@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="720b3e0b-69d2-4cae-94b8-3f8477997dcb" name="Default" comment="" />
+    <list default="true" id="720b3e0b-69d2-4cae-94b8-3f8477997dcb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arge/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arge/lucene/AssociationsFacetsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arge/lucene/FieldBoostExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arge/lucene/SpatialExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arge/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arge/lucene/AssociationsFacetsExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arge/lucene/FieldBoostExample$Columns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arge/lucene/FieldBoostExample$Titles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arge/lucene/FieldBoostExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/arge/lucene/SpatialExample.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,22 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FieldBoostExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/arge/lucene/FieldBoostExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="106" column="63" lean-forward="true" selection-start-line="106" selection-start-column="63" selection-end-line="106" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#Columns#0;class#FieldBoostExample#0" />
-                <element signature="class#Titles#0;class#FieldBoostExample#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +52,9 @@
       <replace>&quot;title&quot;</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -61,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/arge/LUCENE/FieldBoostExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/arge/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/arge/lucene/FieldBoostExample.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -86,6 +94,7 @@
     <option name="width" value="1554" />
     <option name="height" value="882" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -185,7 +194,7 @@
     </configuration>
     <configuration name="AssociationsFacetsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arge.reversegeocoding.luceneExamples.AssociationsFacetsExample" />
-      <module name="ReverseGeocoding" />
+      <module name="small-arge-modules" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -206,7 +215,7 @@
     </configuration>
     <configuration name="SpatialExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arge.reversegeocoding.luceneExamples.SpatialExample" />
-      <module name="ReverseGeocoding" />
+      <module name="small-arge-modules" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -235,7 +244,7 @@
       <patterns />
     </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="ReverseGeocoding" />
+      <module name="small-arge-modules" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.arge.*" />
@@ -294,16 +303,15 @@
       <option name="presentableId" value="Default" />
       <updated>1525864476259</updated>
       <workItem from="1525864480096" duration="6653000" />
-      <workItem from="1525940933238" duration="10507000" />
+      <workItem from="1525940933238" duration="10818000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17160000" />
+    <option name="totallyTimeSpent" value="17471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-489" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -312,10 +320,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5192097" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32930845" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
@@ -325,7 +333,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28869376" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28869376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -611,9 +619,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/arge/lucene/FieldBoostExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="520">
           <caret line="106" column="63" lean-forward="true" selection-start-line="106" selection-start-column="63" selection-end-line="106" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -700,7 +715,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: javax.servlet:servlet-api:2.4</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
